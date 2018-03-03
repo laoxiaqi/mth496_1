@@ -1,0 +1,5 @@
+X1, variance of Wavelet Transformed image (continuous) 
+X2, skewness of Wavelet Transformed image (continuous) 
+X3, curtosis of Wavelet Transformed image (continuous) 
+X4, entropy of image (continuous) 
+y, class (integer) 
